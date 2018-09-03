@@ -1,0 +1,281 @@
+table displaying index plays
+
+       2   3   4   5   6   7   8   9   T   A 
+        
+               D   D   D                             
+              11   7   9                             
+05     H   H   H   H   H   H   H   H   H   H      05 
+                                                 
+ 
+               H                                     
+              20                                     
+           D   D   D   D                             
+          18  11   6   8                             
+06     H   H   H   H   H   H   H   H   H   H      06 
+                                                 
+ 
+           D   D   D   D                             
+          14   7   4   5                             
+07     H   H   H   H   H   H   H   H   H   H      07 
+                                                 
+ 
+       D   D   D           D                         
+      11   6   2          10                         
+08     H   H   H   D   D   H   H   H   H   H      08 
+                   0   0                         
+                   H   H                             
+                                                     
+ 
+                           D   D                     
+                           1   5                     
+09     D   D   D   D   D   H   H   H   H   H      09 
+      -2  -4                                     
+       H   H                                         
+                                                     
+ 
+                                       D   D         
+                                       2   2         
+10     D   D   D   D   D   D   D   D   H   H      10 
+                                  -3             
+                                   H                 
+                                                     
+ 
+11     D   D   D   D   D   D   D   D   D   D      11 
+                                  -6  -4  -5     
+                                   H   H   H         
+                                                     
+ 
+       S   S                                         
+       5   3                                         
+12     H   H   S   S   S   H   H   H   H   H      12 
+               0  -2  -2                         
+               H   H   H                             
+                                                     
+ 
+                                           S         
+                                          19         
+13     S   S   S   S   S   H   H   H   H   H      13 
+       0  -2  -4  -6                             
+       H   H   H   H                                 
+                                                     
+ 
+                           S               S         
+                          16              10         
+14     S   S   S   S   S   H   H   H   H   H      14 
+      -4  -6                                     
+       H   H                                         
+                                                     
+ 
+                           S   S   S   S   S         
+                          16  15   8   5   4         
+15     S   S   S   S   S   H   H   H   H   H      15 
+                                                 
+ 
+                           S   S   S   S   S         
+                          16  15   7   3   3         
+16     S   S   S   S   S   H   H   H   H   H      16 
+                                                 
+ 
+17     S   S   S   S   S   S   S   S   S   S      17 
+                                                 
+ 
+18     S   S   S   S   S   S   S   S   S   S      18 
+                                                 
+ 
+19     S   S   S   S   S   S   S   S   S   S      19 
+                                                 
+ 
+20     S   S   S   S   S   S   S   S   S   S      20 
+                                                 
+ 
+       D   D   D   D   D   D                         
+      10  10   7   5   5  16                         
+A9     S   S   S   S   S   S   S   S   S   S      A9 
+                                                 
+ 
+       D   D   D   D       D                         
+      10   4   2   1      15                         
+A8     S   S   S   S   D   S   S   S   S   S      A8 
+                       0                         
+                       S                             
+                                                     
+ 
+                                           S         
+                                          20         
+                                           H         
+                                          19         
+                                           S         
+                                          11         
+                                           H         
+                                          10         
+                           D               S         
+                          16               9         
+A7     D   D   D   D   D   S   S   H   H   H      A7 
+       0  -2                                     
+       S   S                                         
+                                                     
+ 
+                       S   D                         
+                      20   7                         
+A6     D   D   D   D   D   H   H   H   H   H      A6 
+      -2                                         
+       H                                             
+                                                     
+ 
+       D   D       H                                 
+      16   4      20                                 
+A5     H   H   D   D   D   H   H   H   H   H      A5 
+                                                 
+ 
+           D   H                                     
+           2  20                                     
+A4     H   H   D   D   D   H   H   H   H   H      A4 
+                                                 
+ 
+       D                                             
+      13                                             
+       H   H                                         
+      12  20                                         
+       D   D                                         
+      11   4                                         
+A3     H   H   D   D   D   H   H   H   H   H      A3 
+                                                 
+ 
+       H                                             
+      20                                             
+       D   D                                         
+       8   4                                         
+A2     H   H   D   D   D   H   H   H   H   H      A2 
+               0                                 
+               H                                     
+                                                     
+ 
+                                                     
+                                                     
+                                           H         
+                                           6         
+AA     P   P   P   P   P   P   P   P   P   P      AA 
+      -5  -5  -5  -5  -5  -5  -5  -5  -5  -3     
+       D   D   D   D   D   D   H   H   H   H         
+                                                     
+ 
+                                                     
+                                                     
+                                                     
+                                                     
+                                                     
+                                                     
+       H   H                                         
+       8  20                                         
+       P   P   H   H   H   H                         
+       7   1  20  20  20  20                         
+22     H   H   P   P   P   P   H   H   H   H      22 
+           0                                     
+           P                                         
+          -1                                         
+           H                                         
+          -2                                         
+           P                                         
+                                                     
+ 
+                                                     
+                                                     
+       H   H                                         
+      20   8                                         
+       P   P   H   H   H   H                         
+       7   1  20  20  20  14                         
+33     H   H   P   P   P   P   H   H   H   H      33 
+      -5  -4                  -5                 
+       P   P                   P                     
+                                                     
+ 
+       H   H   H           H                         
+      20  20   8          20                         
+       D   D   D   H   H   D                         
+      16   7   2  20  20  10                         
+44     H   H   H   D   D   H   H   H   H   H      44 
+                   0  -1                         
+                   H   H                             
+                                                     
+ 
+                                       H   H         
+                                      20  20         
+       H   H   H   H   H   H   H   H   D   D         
+      20  20  20   8  20  20  20  20   2   1         
+55     D   D   D   D   D   D   D   D   H   H      55 
+                                  -5             
+                                   H                 
+                                                     
+ 
+                           S                         
+                          20                         
+                           H                         
+                           9                         
+                           P                         
+                           2                         
+       S   S   S   S   S   H   S   S   S   S         
+      20  20  20  20   8   1  20  20  20  15         
+66     P   P   P   P   P   P   H   H   H   H      66 
+      -2              -6      -5                 
+       H               S       P                     
+                                                     
+ 
+                                                     
+                                                     
+                               S                     
+                              16                     
+                           S   P   S       S         
+                          17   2   8       2         
+77     P   P   P   P   P   P   H   H   S   H      77 
+                          -6  -3      -2         
+                           S   P       H             
+                                      -4             
+                                       S             
+                                                     
+ 
+                                       S             
+                                      11             
+                                       P             
+                                      10             
+                               S   S   S             
+                              17   9   9             
+88     P   P   P   P   P   P   P   P   P   P      88 
+                              -6          -2     
+                               S           H         
+                                                     
+ 
+                                                     
+                                                     
+                           P       S       P         
+                           8      18       1         
+99     P   P   P   P   P   S   P   P   S   S      99 
+      -2  -2  -4  -6  -5          -6             
+       S   S   S   S   S           S                 
+                                                     
+ 
+       P   P   P   P   P   P                         
+      15  12   9   7   8  18                         
+TT     S   S   S   S   S   S   S   S   S   S      TT 
+                                                 
+ 
+ 
+       2   3   4   5   6   7   8   9   T   A  
+ 
+     17h18s1d/game1                                                                  
+ 
+     Key: S, H, D, P, and R are letter representing a player response options
+     S = Stand, H = Hit, D = Double Down, P = Split, R = Surrender
+
+     Numbers appearing below these letters represent card count levels.
+
+     To use the table first follow the row with the label corresponding to the player hand
+     and the column with the label corresponding to the point value assigned to the dealer up card
+     to the cell containing data pertaining to this particular three card combination.
+
+     Next look in this cell for the highest number that is less than or equal to the card count
+
+     Execute the instruction indicated by the letter above this number to respond to the hand.
+
+     If all numbers in the cell are greater than the card count,
+     then execute the instruction that is at the bottom of the cell.
+

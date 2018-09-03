@@ -1,0 +1,56 @@
+the most favorable player responses for level   12
+based on    6213783 samples
+
+     2  3  4  5  6  7  8  9  T  A   
+       
+05   H  H  Dh Dh Dh H  H  H  H  H   05 
+06   H  H  Dh Dh Dh H  H  H  H  H   06 
+07   H  H  Dh Dh Dh H  H  H  H  H   07 
+08   Dh Dh Dh Dh Dh Dh H  H  H  H   08 
+09   Dh Dh Dh Dh Dh Dh Dh H  H  H   09 
+10   Dh Dh Dh Dh Dh Dh Dh Dh Dh Dh  10 
+11   Dh Dh Dh Dh Dh Dh Dh Dh Dh Dh  11 
+12   S  S  S  S  S  H  H  H  H  H   12 
+13   S  S  S  S  S  H  H  H  H  H   13 
+14   S  S  S  S  S  H  H  H  H  S   14 
+15   S  S  S  S  S  H  H  S  S  S   15 
+16   S  S  S  S  S  H  H  S  S  S   16 
+17   S  S  S  S  S  S  S  S  S  S   17 
+18   S  S  S  S  S  S  S  S  S  S   18 
+19   S  S  S  S  S  S  S  S  S  S   19 
+20   S  S  S  S  S  S  S  S  S  S   20 
+A9   Ds Ds Ds Ds Ds S  S  S  S  S   A9 
+A8   Ds Ds Ds Ds Ds S  S  S  S  S   A8 
+A7   Ds Ds Ds Ds Ds S  S  H  H  S   A7 
+A6   Dh Dh Dh Dh Ds Dh H  H  H  H   A6 
+A5   H  Dh Dh Ds Dh H  H  H  H  H   A5 
+A4   H  Dh Ds Dh Dh H  H  H  H  H   A4 
+A3   H  Ds Dh Dh Dh H  H  H  H  H   A3 
+A2   Ds Dh Dh Dh Dh H  H  H  H  H   A2 
+AA   PS PS PS PS PS PS PS PS PS H   AA 
+22   H  PS PS PS PS PS H  H  H  H   22 
+33   PS H  PS PS PS PS H  H  H  H   33 
+44   H  Ds H  Ds Ds Ds H  H  H  H   44 
+55   Ds Ds Ds H  Ds Ds Ds Ds Ds Ds  55 
+66   PS PS PS PS S  H  H  H  H  H   66 
+77   PS PS PS PS PS PS PH S  S  S   77 
+88   PS PS PS PS PS PH PS S  S  PS  88 
+99   PS PS PS PS PS PS PS PS S  PS  99 
+TT   S  PS PS PS PS S  S  S  S  S   TT 
+ 
+     2  3  4  5  6  7  8  9  T  A   
+ 
+17h18s1d/game1                                                                  
+ 
+Key: S = Stand, H = Hit
+     D = Double, Ds = Double else Stand, Dh = Double else Hit
+     PS = Split else Stand, PH = Split else Hit, PD = Split else Double, 
+     R* = Surrender else Stand, R = Surrender else Hit
+ 
+Breakdown 
+ 
+Stand        60.610 % of the time.
+Hit          24.805 % of the time.
+Double Down   9.882 % of the time.
+Split         4.703 % of the time.
+Surrender     0.000 % of the time.

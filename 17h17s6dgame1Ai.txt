@@ -1,0 +1,19 @@
+enter 'folder/filename prefix' to be used to store the input screen and program output
+U221docs/17h17s6dgame1A
+enter 'folder/filename prefix'of matching indices
+U299docs/17h17s6dgame1A
+matching indices are described as follows:
+open U299docs/17h17s6dgame1Ai.txt to see a list of program parameters           
+if this is acceptable type 'y'and press entery
+enter 'folder/filename prefix' of average deck compositions U298docs/17h17s6dgame1A
+deck compositions loaded are described as follows: 
+open file U298docs/17h17s6dgame1Ai.txt to see a list of program parameters      
+if this is acceptable type 'y'and press enter 
+y
+input the minimum number of samples required to trigger this program
+to produce an optimal playing strategy for an average deck composition
+and use this in the process of creating playing indices. 
+ 100000 
+input a description of indices open U221docs/17h17s6dgame1Ai.txt to see a list of program parameters
+type 'y' and enter to save count level strategies 
+y
